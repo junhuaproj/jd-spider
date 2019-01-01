@@ -4,7 +4,6 @@
 
 pip install -U selenium
 
-
 create database jd DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
 
 #pip install mysql-connector-python
