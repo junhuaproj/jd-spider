@@ -122,4 +122,3 @@ def InsertMiaosha(conn,msinfo):
         for i in d['items']:
             img=GetImage(i['imgsrc'])
             InsertMiaoshaItem(conn,time_id,i,img)
-    
